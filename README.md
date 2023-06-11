@@ -5,6 +5,6 @@ It draws the landmarks on the frame, calculates frames per second (fps), and dis
 
 | Input | Output |
 |-------|--------|
-| <img src="data/input.gif" width="300" height="450"/> | <img src="data/output.gif" width="300" height="450"/>|
+| <img src="input.gif" width="300" height="169"/> | <img src="output.gif" width="300" height="169"/>|
 
 
